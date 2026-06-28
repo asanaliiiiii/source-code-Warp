@@ -11,7 +11,7 @@ The project was created for those who value the speed of Rust and the ease of us
 To make the `warp` command work on your computer anywhere in the terminal, you don't need to manually configure complex system environment variables (`PATH`). Just follow these two simple steps:
 
 ### Step 1: Download the finished file
-Go to the **[Releases](https://github.com/your_username/your_repository_folder/releases)** section of this repository and download the latest executable file `warp.exe`.
+Go to the **[Releases](https://github.com/asanaliiiiii/source-code-Warp/releases)** section of this repository and download the latest executable file `warp.exe`.
 
 ### Step 2: Copy to your user profile
 Open the Windows Command Prompt (`cmd`) in the folder where you downloaded the file and run the following command:
